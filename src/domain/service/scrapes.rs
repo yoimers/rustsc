@@ -1,3 +1,4 @@
+pub mod download_file;
 pub mod download_img;
 pub mod download_zip;
 pub mod get_img_link;
